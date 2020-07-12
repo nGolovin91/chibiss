@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#162440</color>
+    <color name="colorPrimaryDark">#162440</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="background">#162440</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack50">#80000000</color>
+    <color name="colorBlack30">#4D000000</color>
+    <color name="colorBlack25">#40000000</color>
+    <color name="colorBlack10">#1A000000</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhite15">#26FFFFFF</color>
+    <color name="colorWhite25">#40FFFFFF</color>
+    <color name="colorWhite50">#80FFFFFF</color>
+    <color name="colorWhite5">#0DFFFFFF</color>
+    <color name="colorWhite10">#1AFFFFFF</color>
+    <color name="colorWhite80">#CCFFFFFF</color>
+
+    <color name="shadow_gradient_start_color">#003A3735</color>
+    <color name="shadow_gradient_end_color">#FF3A3735</color>
+
+    <color name="colorMenuGrey">#515B70</color>
+    <color name="colorMenuActive">#FFFFFF</color>
+
+    <color name="colorItemBackground">#222F4A</color>
+
+    <color name="error_red">#E72464</color>
+    <color name="red_bank">#C75137</color>
+    <color name="green_light">#4CD964</color>
+</resources>
